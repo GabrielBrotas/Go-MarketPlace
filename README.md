@@ -22,10 +22,10 @@
   1. clone this folder; <br />
   2. install the dependencies; <br />
     > yarn <br />
-  3. Run fake api <br />
+  3. Run fake api; <br />
     > yarn json-server server.json -p 3333 <br />
-  4. Run app in android
+  4. Run app in android; <br />
     > yarn android
-  5. Run app in ios
+  5. Run app in ios; <br />
     > yarn ios
  
