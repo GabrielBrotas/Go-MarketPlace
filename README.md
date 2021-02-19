@@ -4,7 +4,7 @@
   Application developed to simulate a mobile e-commerce. <br /> 
 
 ## View
-<img src="https://github.com/GabrielBrotas/Happy-NLW3/blob/main/images/happy-mobile.gif" width="800px" height="500px" />
+<img src="https://github.com/GabrielBrotas/Go-MarketPlace/blob/main/src/assets/app.gif" />
 
 ## 💻 Technologies
   > React Native; <br />
