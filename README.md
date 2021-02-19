@@ -1,7 +1,7 @@
 # Go-MarketPlace
 
 ## 🚀 Project
-  Application developed to simulate a e-commerce. <br /> 
+  Application developed to simulate a mobile e-commerce. <br /> 
 
 ## View
 <img src="https://github.com/GabrielBrotas/Happy-NLW3/blob/main/images/happy-mobile.gif" width="800px" height="500px" />
