@@ -1,7 +1,7 @@
 # Go-MarketPlace
 
 ## 🚀 Project
-  Application developed to simulate a mobile e-commerce. <br /> 
+  Application developed to simulate a mobile E-commerce. <br /> 
 
 ## View
 <img src="https://github.com/GabrielBrotas/Go-MarketPlace/blob/main/src/assets/app.gif" />
